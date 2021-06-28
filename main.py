@@ -9,3 +9,4 @@ def generatePassword(length, amount):
             f.write("\n" + password)
 
 generatePassword(9,10)
+print("Passwords saved in ""passwords.txt")
